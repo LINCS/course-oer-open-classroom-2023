@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="287" contextid="63132">
+  <shortname>OER_Open_Classroom_2023</shortname>
+  <fullname>Open Your Classroom with OER </fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;Course Hours: 2 hours&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Course Description: This course introduces the wide variety of Open Educational Resources (OER), Creative &lt;/div&gt;&lt;div&gt;Commons, and other open licenses. Instructors at all levels of AE will gain an understanding of how to identify and &lt;/div&gt;&lt;div&gt;search for materials to use in their teaching practice. In addition to learning search strategies, instructors will gain &lt;/div&gt;&lt;div&gt;an understanding of how to evaluate OER for appropriate use. Those that will benefit the most from this course &lt;/div&gt;&lt;div&gt;are adult education instructors, trainers, and coordinators. By the end of the course, participants will be able to &lt;/div&gt;&lt;div&gt;understand and define OER and have a foundational understanding of how they can enrich their teaching, refine &lt;/div&gt;&lt;div&gt;search queries, apply appropriate filters, and determine licensing requirements for Open Educational Resources, &lt;/div&gt;&lt;div&gt;and explore, find, review, evaluate, and save materials on the educational repository, OER Commons.&amp;nbsp;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>0</newsitems>
+  <startdate>1683604800</startdate>
+  <enddate>0</enddate>
+  <marker>5</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1382637377</timecreated>
+  <timemodified>1683647122</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>4</numsections>
+  <hiddensections>1</hiddensections>
+  <displayinstructions>0</displayinstructions>
+  <layoutelement>0</layoutelement>
+  <layoutstructure>0</layoutstructure>
+  <layoutcolumns>0</layoutcolumns>
+  <layoutcolumnorientation>0</layoutcolumnorientation>
+  <toggleallenabled>0</toggleallenabled>
+  <viewsinglesectionenabled>0</viewsinglesectionenabled>
+  <togglealignment>0</togglealignment>
+  <toggleiconposition>0</toggleiconposition>
+  <toggleiconset>-</toggleiconset>
+  <onesection>0</onesection>
+  <toggleallhover>0</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <toggleforegroundopacity>-</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>-</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundopacity>-</togglebackgroundopacity>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>-</togglebackgroundhoveropacity>
+  <showsectionsummary>0</showsectionsummary>
+  <showadditionalmoddata>0</showadditionalmoddata>
+  <category id="11">
+    <name>Integrating Technology</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>
