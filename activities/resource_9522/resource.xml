@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="298" moduleid="9522" modulename="resource" contextid="63144">
+  <resource id="298">
+    <name>Searching for OER and Exploring OER Repositories </name>
+    <intro>&lt;p&gt;&lt;em&gt; &lt;em&gt;&lt;em&gt;Note: the activity will open in a new window when you click &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/63144/mod_resource/content/25/Searching%20for%20OER%20and%20Exploring%20OER%20Repositories?embed=1" target="_blank"&gt;Searching for OER and Exploring OER Repositories&lt;/a&gt;. Close the window to return to the course.&lt;/em&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>27</revision>
+    <timemodified>1683746393</timemodified>
+  </resource>
+</activity>

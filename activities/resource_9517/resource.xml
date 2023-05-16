@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="296" moduleid="9517" modulename="resource" contextid="63139">
+  <resource id="296">
+    <name>Course Overview</name>
+    <intro>&lt;p&gt;&lt;span class="ui-provider bqm bqn c d e f g h i j k l m n o p q r s t bqo bqp w x y z ab ac ae af ag ah ai aj ak" dir="ltr"&gt;&lt;em&gt;&amp;nbsp;&lt;em&gt;&lt;em&gt;Note: the activity will open in a new window when you click &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/63139/mod_resource/content/27/story.html" target="_blank"&gt;Course Overview&lt;/a&gt;. Close the window to return to the course.&lt;/em&gt;&lt;/em&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>28</revision>
+    <timemodified>1684170417</timemodified>
+  </resource>
+</activity>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="164" moduleid="9519" modulename="quiz" contextid="63141">
+  <quiz id="164">
+    <name>OER Knowledge Check #1</name>
+    <intro>&lt;p&gt;This is&amp;nbsp; a 10 question quiz on the topics covered in the modules of this self-paced course. Since you are just starting the course, this short quiz will give you an opportunity to answer some general questions.&amp;nbsp;Don't worry if you are unsure of the answer. Feedback will help guide your learning to modules with the correct information.&lt;/p&gt;
+&lt;p&gt;You are free to take this quiz as often as you like. It is repeated in Module 3 as well. You may want to take this quiz and then wait and take the second quiz after you have finished all three modules. The 10 questions are drawn from a pool of questions for both quizzes. It is unlikely you will see the same questions&amp;nbsp;unless you take the quiz multiple times. In either case, your highest score will be recorded in the grade book and count toward your certificate of completion for the course.&lt;/p&gt;
+&lt;p&gt;Good luck and have fun!&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>4352</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>5</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>10.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1680124186</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="1207">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2837</questionid>
+        <questioncategoryid>687</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1208">
+        <slot>2</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2874</questionid>
+        <questioncategoryid>689</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1209">
+        <slot>3</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2875</questionid>
+        <questioncategoryid>689</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1210">
+        <slot>4</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2876</questionid>
+        <questioncategoryid>689</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1211">
+        <slot>5</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2877</questionid>
+        <questioncategoryid>689</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1212">
+        <slot>6</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2892</questionid>
+        <questioncategoryid>690</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1213">
+        <slot>7</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2893</questionid>
+        <questioncategoryid>690</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1214">
+        <slot>8</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2894</questionid>
+        <questioncategoryid>690</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1215">
+        <slot>9</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2895</questionid>
+        <questioncategoryid>690</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1216">
+        <slot>10</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2878</questionid>
+        <questioncategoryid>689</questioncategoryid>
+        <includingsubcategories>1</includingsubcategories>
+        <maxmark>1.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="138">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="219">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

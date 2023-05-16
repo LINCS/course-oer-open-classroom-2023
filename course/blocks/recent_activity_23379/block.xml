@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="23379" contextid="63133" version="2020061500">
+  <blockname>recent_activity</blockname>
+  <parentcontextid>63132</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>3</defaultweight>
+  <configdata></configdata>
+  <timecreated>1549573478</timecreated>
+  <timemodified>1549573478</timemodified>
+  <block_positions>
+    <block_position id="1389">
+      <contextid>63132</contextid>
+      <pagetype>course-view-topcoll</pagetype>
+      <subpage></subpage>
+      <visible>0</visible>
+      <region>side-post</region>
+      <weight>3</weight>
+    </block_position>
+    <block_position id="1390">
+      <contextid>63132</contextid>
+      <pagetype>course-view-topics</pagetype>
+      <subpage></subpage>
+      <visible>0</visible>
+      <region>side-post</region>
+      <weight>3</weight>
+    </block_position>
+  </block_positions>
+</block>

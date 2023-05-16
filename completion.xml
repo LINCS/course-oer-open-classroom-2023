@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course_completion>
+  <course_completion_aggr_methd id="433">
+    <course>287</course>
+    <criteriatype>$@NULL@$</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="434">
+    <course>287</course>
+    <criteriatype>4</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="435">
+    <course>287</course>
+    <criteriatype>8</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+  <course_completion_aggr_methd id="436">
+    <course>287</course>
+    <criteriatype>7</criteriatype>
+    <method>1</method>
+    <value>$@NULL@$</value>
+  </course_completion_aggr_methd>
+</course_completion>

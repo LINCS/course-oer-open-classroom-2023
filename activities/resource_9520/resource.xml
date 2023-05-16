@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="297" moduleid="9520" modulename="resource" contextid="63142">
+  <resource id="297">
+    <name>Defining Open and Understanding Licensing Options </name>
+    <intro>&lt;p&gt;&lt;em&gt; &lt;em&gt;&lt;em&gt;Note: the activity will open in a new window when you click &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/63142/mod_resource/content/13/Defining%20Open%20and%20Understanding%20Licensing%20Options" target="_blank"&gt;Defining Open and Understanding Licensing Options&lt;/a&gt;. Close the window to return to the course.&lt;/em&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>14</revision>
+    <timemodified>1683746429</timemodified>
+  </resource>
+</activity>

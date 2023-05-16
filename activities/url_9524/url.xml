@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="298" moduleid="9524" modulename="url" contextid="63146">
+  <url id="298">
+    <name>LINCS Evaluation</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Tell us your experience with this LINCS course.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://survey.alchemer.com/s3/6221234/LINCS-Training-Evaluation</externalurl>
+    <display>5</display>
+    <displayoptions>a:0:{}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1683749641</timemodified>
+  </url>
+</activity>
